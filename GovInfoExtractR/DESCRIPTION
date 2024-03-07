@@ -1,0 +1,10 @@
+Package: GovInfoExtractR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Daniel Patterson
+Maintainer: Daniel Patterson <daniel.patterson87@gmail.com>
+Description: Extracts information from https://www.govinfo.gov/
+License: TBD
+Encoding: UTF-8
+LazyData: true
